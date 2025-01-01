@@ -3,6 +3,6 @@ Harware and firmware associated with controlling 4 bistable valves from TTL puls
 The valves are bistable and require a pulse of constant current to turn ON/OFF. 
 The code can be modified to have any pulse duration and the hardware can be modified to also obtain stable current from 0 to 1.5A.
 The stable current is based on a AL8860 ic.
-![Enclosure]https://github.com/NBCS1/Constant_Current_Valve_Driver2/blob/main/Enclosure/enclosure42%20v9.png
+![Enclosure](https://github.com/NBCS1/Constant_Current_Valve_Driver2/blob/main/Enclosure/enclosure42%20v9.png)
 
 Disclaimer: We will not be responsible in case any implementation of the content of this repository leads to damage in instruments or components.
