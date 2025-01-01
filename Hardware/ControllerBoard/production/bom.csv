@@ -1,0 +1,16 @@
+﻿Designator;Footprint;Quantity;Value;LCSC Part #
+J1, J2;PinHeader_1x15_P2.54mm_Vertical;2;Conn_01x15_Pin;
+J10;PinSocket_1x12_P2.54mm_Vertical;1;register_out;
+J3;TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal;1;power;
+J4;PinSocket_1x04_P2.54mm_Vertical;1;LEDS_vcc;
+J5;PinSocket_1x04_P2.54mm_Vertical;1;LEDS_gnd;
+J6;PinSocket_1x04_P2.54mm_Vertical;1;Buttons_digital;
+J7;PinSocket_1x04_P2.54mm_Vertical;1;BUTTONS_gnd;
+J8;PinSocket_1x04_P2.54mm_Vertical;1;oled;
+J9;PinSocket_1x02_P2.54mm_Vertical;1;TTLin;
+R1, R2, R3;1206;3;10k;
+RV1, RV2, RV3, RV4;Potentiometer_Vishay_T73XW_Horizontal;4;potentiometer_3362P;
+U1, U2;D16-M;2;SN74HC595_N_16;
+U3;D14-M;1;LM324N;
+U4;SOIC20;1;74HC540D;
+U5, U6;SOT108-1_NEX-M;2;74HC08D_652;
